@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-My solutions to leetcode problems
+A repo of my recently solved DSA problems on several online judges.
